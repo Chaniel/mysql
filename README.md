@@ -5,4 +5,4 @@ my mysql use method
 
 Mysql binary edition installation.
 Linux tar file.
-MySQL skills
+MySQL skills.
