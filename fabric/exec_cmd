@@ -1,1 +1,9 @@
-s
+# install fabric
+pip install fabric
+
+
+# create fabfile.py
+
+
+# use 
+fab remote_server show_dbs
