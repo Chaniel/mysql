@@ -5,8 +5,8 @@ http://docs.hexnova.com/amoeba/install-amoeba.html
 
 wget http://docs.hexnova.com/amoeba/install-amoeba.html???
 
+#　java setup
 locate openjdk
-
 /usr/lib/jvm/java-1.7.0
 
 vim /etc/profile
@@ -15,3 +15,6 @@ export CLASSPATH=.:$JAVA_HOME/jre/lib/rt.jar:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/li
 export PATH=$JAVA_HOME/bin:$PATH
 
 source /etc/profile
+
+
+# 
