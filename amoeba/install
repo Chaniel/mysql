@@ -17,4 +17,4 @@ export PATH=$JAVA_HOME/bin:$PATH
 source /etc/profile
 
 
-# 
+# 无法安装，不知道怎么安装
