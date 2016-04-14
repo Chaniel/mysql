@@ -10,3 +10,8 @@ support-files/mysql.server start
 3. stop
 kill
 upport-files/mysql.server stop
+
+
+# set root password
+mysql> update mysql.user set authentication_string=password('123456') where user='root' and Host = 'localhost';
+mysql> flush privileges;
