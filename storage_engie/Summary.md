@@ -1,6 +1,8 @@
 ### MyISAM 和 InnoDB 的最大区别
 **referential integrity and transactions**
-`ref: http://blog.danyll.com/myisam-vs-innodb/`
+```
+ref: http://blog.danyll.com/myisam-vs-innodb/
+```
 
 ### MyISAM 和 InnoDB 的适用场景
 InnoDB一般情况下都使用，支持事务，外键，交易等系统。
