@@ -1,4 +1,5 @@
 ### MyISAM 和 InnoDB 的最大区别
+ref: http://blog.danyll.com/myisam-vs-innodb/
 referential integrity and transactions
 
 ### MyISAM 和 InnoDB 的适用场景
