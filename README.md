@@ -1,8 +1,6 @@
-mysql
-=====
+# MySQL Administration Scripts
 
-my mysql use method
 
-Mysql binary edition installation.
-Linux tar file.
-MySQL skills.
+## Contains
+- MySQl installation.
+- MySQL skills or commands.
